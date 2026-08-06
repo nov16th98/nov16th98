@@ -1,8 +1,6 @@
 # Whisnef
 
-Faceless content creator. Tự dựng công cụ hơn là đi mua.
-
-Đang làm: video explainer bằng code — Remotion, TTS chạy local, agent tự điều phối.
+Faceless content creator.
 
 <img src="https://raw.githubusercontent.com/nov16th98/nov16th98/output/snake.svg" alt="contribution snake" />
 
