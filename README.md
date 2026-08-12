@@ -6,4 +6,4 @@ Faceless content creator.
 
 ---
 
-<sub>Con rắn ở trên tự cập nhật 12 tiếng một lần bằng GitHub Action.</sub>
+<sub><3.</sub>
